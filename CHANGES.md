@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.4.0 (2026-03-25)
+
+- Feat: added config for `minimumReleaseAge` for added security
+- Chore: bumped all deps.
+
 ## 8.3.0 (2025-10-21)
 
 - Feat: changed CSS icons from `@egoist/tailwindcss-icons` to `@iconify/tailwind4`
